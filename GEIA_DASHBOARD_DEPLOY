@@ -1,0 +1,9 @@
+/geia-dashboard
+    geia_streamlit_app.py
+    requirements.txt
+    README.md
+    /data
+        idealista.csv
+        listings.csv
+        neighbourhoods.csv
+        reviews.csv
